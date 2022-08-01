@@ -1,1 +1,1 @@
-# legacy-mdt-issue-tracker
+# Legacy MDT Issue Tracker
